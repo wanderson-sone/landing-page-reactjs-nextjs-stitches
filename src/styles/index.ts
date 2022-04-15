@@ -15,6 +15,9 @@ export const {
     colors: {
       // backgroundColor: "#2B2A3C",
       primary: "#2B2A3C",
+      title: "#FFF",
+      button: "#FFA939",
+      box: "#F1F1F1F1"
     },
   },
   media: {
